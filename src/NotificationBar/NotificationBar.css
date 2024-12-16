@@ -1,0 +1,18 @@
+.notification-bar {
+  background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); /* or any color you prefer */
+  color: #262633;
+  padding: 8px 16px;
+  font-weight: 500;
+  font-size: 14px;
+  width: 100%;
+}
+
+.notification-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  max-width: 1200px; /* or your preferred max-width */
+  margin: 0 auto;
+}
+
